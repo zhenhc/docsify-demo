@@ -1,0 +1,1 @@
+[Sublime Text3 安装sublime_merge 以及sublimerge插件](https://bbs.huaweicloud.com/blogs/105375)
